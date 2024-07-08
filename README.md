@@ -18,6 +18,7 @@ I am a professional full stack software engineer with 10+ years experience build
 - CSS
 - C#
 - VB.NET
+- Python
 
 ### Frameworks
 - Phoenix
