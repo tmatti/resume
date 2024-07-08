@@ -1,6 +1,8 @@
 # Tim Matti
 Software Engineer
+
 [LinkedIn](https://www.linkedin.com/in/tmatti)
+
 Athens, GA, USA 
 
 ## Summary
@@ -138,15 +140,18 @@ Bachelor of Science in Applied Computing 2014
 #### Undergrad Research
 ##### Research Assistant
 Oct 2012 - Apr 2014
+
 I worked with a team of researchers to implement distributed similarity join algorithms in Java on the Hadoop MapReduce platform. We published multiple papers and even a book chapter. 
 
 
 ##### Research Assistant
 Jan 2013 - Apr 2014
+
 I developed a Python application that attempted to detect financial fraud events by analyzing tweets in real time. Tweets were filtered by financial fraud related keywords and selected for processing, where important information about the suspect was extracted. Real time summary report was generated. This was a partnership with a researcher at American Express. I won first place at a conference for my work on this.
 
 ##### Research Assistant
 May 2013 - Sep 2013
+
 Developed Python application that collected friendship topology of all Arizona Twitter users. The data my application collected was used to conduct research on friendship networks. 
 - Data collection was done concurrently with multiple processes crawling follower relationships and storing the data in a MySQL database
 - The resulting social graph was composed of over 70 million vertices and 330 million edges
