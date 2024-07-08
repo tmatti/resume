@@ -1,5 +1,10 @@
 # Tim Matti
-Athens, GA, USA - [LinkedIn](https://www.linkedin.com/in/tmatti)
+Software Engineer
+[LinkedIn](https://www.linkedin.com/in/tmatti)
+Athens, GA, USA 
+
+## Summary
+I am a professional full stack software engineer with 10+ years experience building web apps and distributed systems in Elixir, Ruby, and .NET. My skills are truly full stack as I have experience building frontends, monoliths, distributed micro-services, SQL and NoSQL databases, server-less functions, and even DevOps. 
 
 ## Skills
 ### Programming Languages
@@ -67,9 +72,9 @@ Athens, GA, USA - [LinkedIn](https://www.linkedin.com/in/tmatti)
 ## Professional Experience
 ### Stord
 
-It is very difficult to sum up my contributions to Stord in a few bullet points. I joined the company very early and helped develop key features of their original POC in Ruby on Rails. The company quickly rocket shipped to unicorn status and we started building the Cloud Supply Chain. We got to work building an OMS (Order Management System) with an event driven microservice architecture. The services were written in Elixir with the Phoenix framework and communicated with HTTP and Kafka. The OMS integrated upstream with ecomm platforms like Shopify and downstream with WMSes (Warehouse Management Systems) like Logiwa and our own which we called S1W. I was a top contributor to the fulfillment layer of the OMS and was promoted to Senior Software Engineer as a result. As a senior, I led the development of several features including a complex solution to a critical bug that had cost the company $750k+. A major customer credited this fix with their decision to extend their contract.
+It is very difficult to sum up my contributions to Stord in a few bullet points. I joined the company very early and helped develop key features of their original POC in Ruby on Rails. The company quickly rocket shipped to unicorn status and we started building the Cloud Supply Chain. We got to work building an OMS (Order Management System) with an event driven micro-service architecture. The services were written in Elixir with the Phoenix framework and communicated with HTTP and Kafka. The OMS integrated upstream with ecomm platforms like Shopify and downstream with WMSes (Warehouse Management Systems) like Logiwa and our own which we called S1W. I was a top contributor to the fulfillment layer of the OMS and was promoted to Senior Software Engineer as a result. As a senior, I led the development of several features including a complex solution to a critical bug that had cost the company $750k+. A major customer credited this fix with their decision to extend their contract.
 
-In January of 2023, I switched to the WMS team where I built critical features that helped Stord deprecate multiple external vendors saving the company millions of dollars. One of these features was an efficient order picking module that increased operational efficiency by ~50% compared to a vendors solution. As a team we managed to reach feature parity with every other WMS in the Stord Network which allowed Stord to migrate the entire network to our product. This increased the overall efficincy of the fulfillment network and allowed Stord to stop paying additional vendors, saving millions. I was then laid off as part of a mass reduction in force.
+In January of 2023, I switched to the WMS team where I built critical features that helped Stord deprecate multiple external vendors saving the company millions of dollars. One of these features was an efficient order picking module that increased operational efficiency by ~50% compared to a vendors solution. As a team we managed to reach feature parity with every other WMS in the Stord Network which allowed Stord to migrate the entire network to our product. This increased the overall efficiency of the fulfillment network and allowed Stord to stop paying additional vendors, saving millions. 
 
 #### Senior Software Engineer 
 May 2021 - June 2024
@@ -93,7 +98,7 @@ August 2018 - November 2019
 - Built API allowing Users to create a dynamic, progressive profile (Rails, Aurora)
 - Built modern login page with option for logging in with Facebook and Google (.NET)
 - Supported and improved custom OpenID, SAML, and OAuth solutions (JS, .NET)
-- Maintained and improved legacy .NET monolith while splitting off microservices
+- Maintained and improved legacy .NET monolith while splitting off micro-services
   
 #### Software Engineer II
 August 2015 - August 2018
@@ -101,7 +106,7 @@ August 2015 - August 2018
 - Supported and improved custom OpenID, SAML, and OAuth solutions (JS, .NET)
 - Built pub sub system to sync Users (Rails, DynamoDB, Lambda, SNS, SQS)
 - Built a fully automated canary deployment system (Ruby, Jenkins, AWS EC2)
-- Maintained and improved legacy .NET monolith while splitting off microservices
+- Maintained and improved legacy .NET monolith while splitting off micro-services
 
 
 ### Sandhills Publishing
@@ -138,7 +143,7 @@ I worked with a team of researchers to implement distributed similarity join alg
 
 ##### Research Assistant
 Jan 2013 - Apr 2014
-I developed a Python application that attemped to detect financial fraud events by analyzing tweets in real time. Tweets were filtered by financial fraud related keywords and selected for processing, where important information about the suspect was extracted. Real time summary report was generated. This was a partnership with a researcher at American Express. I won first place at a conference for my work on this.
+I developed a Python application that attempted to detect financial fraud events by analyzing tweets in real time. Tweets were filtered by financial fraud related keywords and selected for processing, where important information about the suspect was extracted. Real time summary report was generated. This was a partnership with a researcher at American Express. I won first place at a conference for my work on this.
 
 ##### Research Assistant
 May 2013 - Sep 2013
@@ -150,27 +155,3 @@ Developed Python application that collected friendship topology of all Arizona T
 - Archery
 - Fishing
 - Gardening
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
