@@ -6,7 +6,7 @@ Software Engineer
 Athens, GA, USA 
 
 ## Summary
-I am a professional full stack software engineer with 10+ years experience building web apps and distributed systems in Elixir, Ruby, and .NET. My skills are truly full stack as I have experience building frontends, monoliths, distributed micro-services, SQL and NoSQL databases, server-less functions, and even DevOps. 
+I am a professional full stack software engineer with 10+ years experience building web apps and distributed systems in Elixir, Ruby, and .NET. My skills are truly full stack as I have experience building frontends, distributed micro-services, monoliths, SQL and NoSQL databases, server-less functions, and even some DevOps. 
 
 ## Skills
 ### Programming Languages
