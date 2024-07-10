@@ -83,15 +83,21 @@ In January of 2023, I switched to the WMS team where I built critical features t
 May 2021 - June 2024
 
 - Collaborated with Product and UX teams to architect E2E solutions from requirements → technical design → estimation → epic/story creation → delivery
-- Built an efficient order picking module that resulted in a ~50% increase in our network’s UPH and replaced a vendor, saving the company millions of dollars
-- Led the effort to resolve a complex order cancellation bug that had cost the company $750,000 and saved a major customer from churning
-- High performing on-call engineer — consistently improved QOL for future rotations by building tooling to improve operational efficiency, self service fixes for the operations team, and writing a large collection of actionable playbooks
-- Mentored junior developers and helped new team members deliver value rapidly
+- Developed an efficient order picking module, leading to a ~50% increase in network Units Per Hour (UPH) and replacing a vendor, saving the company millions of dollars.
+- Led the effort to resolve a complex order cancellation bug, saving the company $750,000 and retaining a major customer
+- Led the effort to improve pick path efficiency in exceptional cases
+- Implemented the fulfillment layer of the OMS, designed to support asynchronous integration with any WMS using an event-driven micro-service architecture
+- Rearchitected and simplified complex fulfillment logic improving reliability and data integrity
+- Enhanced audit log performance tenfold, transforming it into a highly performant tool for investigating warehouse events
+- High performing on-call engineer — consistently improved the oncall experience by proactively improving application performance, building tooling to improve operational efficiency, and writing a comprehensive collection of actionable playbooks
+- Mentored junior developers and new team members, making them better engineers, improving the overall team
 
 #### Full Stack Engineer 
 November 2019 - May 2021
 
-- Top contributor to the OMS fulfillment service which integrated with many WMS’s in an asynchronous event driven micro-service architecture
+- Top contributor to the fulfillment layer of the OMS, designed to enable asynchronous integration with any WMS using an event driven micro-service architecture
+- Designed and implemented asynchronous shipment confirmation processing, improving response times by 10x
+- Led the effort to support order line changes after order creation
 - Implemented critical features like lot tracking and a progressive order creation form
 
 ### CareerBuilder
