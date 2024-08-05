@@ -13,7 +13,7 @@ I am a professional full stack software engineer with 10+ years experience build
 - Elixir
 - Ruby
 - SQL
-- Javascript
+- Typescript / Javascript
 - HTML
 - CSS
 - C#
@@ -24,6 +24,7 @@ I am a professional full stack software engineer with 10+ years experience build
 - Phoenix
 - Rails
 - React
+- Next.js
 - Angular
 - .NET
 
@@ -73,6 +74,12 @@ I am a professional full stack software engineer with 10+ years experience build
 - Onboarding
 
 ## Professional Experience
+### Freelance
+#### Hydrahost
+Implemented a complete redesign of key pages on their marketing site
+
+Tech used: Next.js, Tailwind CSS, Strapi CMS
+
 ### Stord
 
 At Stord, I made significant contributions from the outset, including developing key features like lot tracking and a multi-step order form for the original application. During our pivot to building a cloud supply chain, I played a crucial role in constructing a world-class Order Management System (OMS) from the ground up. I was a top contributor to the OMS from day one. When the business shifted its focus to investing in a Warehouse Management System (WMS), I joined the WMS team, where I developed essential features that enabled Stord to transition 100% of its fulfillment network to our software, significantly boosting operational efficiency in warehouses nationwide.
@@ -91,6 +98,8 @@ May 2021 - June 2024
 - High performing on-call engineer — consistently improved the oncall experience by proactively improving application performance, building tooling to improve operational efficiency, and writing a comprehensive collection of actionable playbooks
 - Mentored junior developers and new team members, making them better engineers, improving the overall team
 
+Tech used: Elixir, Phoenix, PostgresSQL, Kafka, React, Typescript, ClickhouseDB
+
 #### Full Stack Engineer 
 November 2019 - May 2021
 
@@ -98,6 +107,8 @@ November 2019 - May 2021
 - Designed and implemented asynchronous shipment confirmation processing, improving response times by 10x
 - Led the effort to support order line changes after order creation
 - Implemented critical features like lot tracking and a progressive order creation form
+
+Tech used: Elixir, Phoenix, PostgresSQL, Kafka, Ruby on Rails, React, Javascript, CoffeeScript, JQuery
 
 ### CareerBuilder
 #### Software Engineer III
@@ -107,7 +118,9 @@ August 2018 - November 2019
 - Built modern login page with option for logging in with Facebook and Google (.NET)
 - Supported and improved custom OpenID, SAML, and OAuth solutions (JS, .NET)
 - Maintained and improved legacy .NET monolith while splitting off micro-services
-  
+
+Tech used: Ruby on Rails, Sinatra, C#, .NET, Javascript, Typescript, Angular, AWS (SNS, SQS, DynamoDB, S3, EC2, ECS)
+
 #### Software Engineer II
 August 2015 - August 2018
 - Built modern SPA landing page allowing users to log into their products with single login credentials using our implementation of OpenID Connect (Sinatra, Angular)
@@ -116,6 +129,7 @@ August 2015 - August 2018
 - Built a fully automated canary deployment system (Ruby, Jenkins, AWS EC2)
 - Maintained and improved legacy .NET monolith while splitting off micro-services
 
+Tech used: Ruby on Rails, Sinatra, C#, .NET, Javascript, Typescript, Angular, AWS (SNS, SQS, DynamoDB, S3, EC2, ECS)
 
 ### Sandhills Publishing
 #### Systems Application Specialist
@@ -126,12 +140,16 @@ servers, and tracking where applications are hosted
 charts through user-friendly, drag-and-drop GUI
 - Implemented user-friendly system for managing and tracking locker assignments
 
+Tech used: VB.NET, SQL Server, Javascript, JQuery, JQueryUI
+
 #### Software Developer Intern
 November 2013 - May 2014
 - Improved company’s inventory management software by redesigning web service and
 bizlogic and improving overall efficiency
 - Developed customer management web application with add, edit, delete, and search
 functionality. Built web service and integrated into company’s internal workflow system.
+
+Tech used: VB.NET, SQL Server, Javascript, JQuery, JQueryUI
 
 ## Education
 ### Arizona State University
